@@ -1,0 +1,9 @@
+id,species,name,breed,ageMonths,price,available,breeder
+5,Dog,Bella,Labrador Retriever,24,150.00,true,Happy Paws Breeders
+7,Cat,Luna,American Shorthair,18,85.00,true,Cozy Cats NC
+3,Rabbit,Thumper,Mini Rex,10,45.00,true,Bunny Haven
+11,Duck,Quackers,Mallard,8,22.50,true,Lakeside Poultry
+12,Goat,Daisy,Pygmy,20,135.00,true,Meadow Brook Farm
+8,Hamster,Speedy,Syrian,3,12.00,true,Small Paws Pets
+9,Chicken,Henny,Rhode Island Red,12,18.00,true,Farm Hatchery NC
+10,Rabbit,Hopkins,Holland Lop,14,40.00,true,Bunny Haven

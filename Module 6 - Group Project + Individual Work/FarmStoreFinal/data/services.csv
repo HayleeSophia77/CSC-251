@@ -1,0 +1,11 @@
+id,serviceName,description,price,durationMinutes
+S1,Full Grooming,Includes bath haircut brush and nail trim,45.00,60
+S2,Basic Wash,Simple shampoo and towel dry,25.00,30
+S3,Nail Trim,Clip and smooth nails,12.00,15
+S4,Teeth Cleaning,Pet-safe oral cleaning,30.00,20
+S5,Vaccination Shot,Routine wellness vaccine,55.00,25
+S6,Check-Up,Full health examination,40.00,30
+S7,Training Session,Basic obedience training session,60.00,45
+S8,Behavior Consultation,Advanced behavior support session,80.00,60
+S9,Boarding Overnight,Overnight boarding in private pen,35.00,1440
+S10,Pet Sitting (Day),Daytime pet care,25.00,480

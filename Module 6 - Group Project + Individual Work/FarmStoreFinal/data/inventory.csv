@@ -1,0 +1,10 @@
+id,sku,name,category,unitPrice,qtyOnHand,taxable
+I1,DOGFOOD-20,Dog Kibble 20lb,Food,29.99,40,true
+I2,CATTOY-FEATHER,Feather Toy,Toys,6.49,20,true
+I3,DUCK-FEED-20,Duck Feed 20lb,Feed,24.99,10,true
+I4,HAY-BALE-L,Large Hay Bale,Feed,15.00,20,false
+I5,SHAMPOO-PET,Pet Wash Shampoo,Grooming,8.95,10,true
+I6,COLLAR-M,Adjustable Collar Medium,Accessories,9.50,20,true
+I8,BIRD-SEED-10,Wild Bird Seed 10lb,Feed,14.25,10,true
+I9,RABBIT-PELLET,Rabbit Pellets 5lb,Feed,11.99,10,true
+I10,AQUA-TREAT,Aquarium Water Conditioner,Supplies,7.89,10,true

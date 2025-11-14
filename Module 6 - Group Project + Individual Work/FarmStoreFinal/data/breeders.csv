@@ -1,0 +1,3 @@
+id,displayName,contact,phone,email,consignment
+B1,Local Breeder,Sam Carter,910-555-1010,sam@example.com,true
+B2,Farm Hatch,In-house Hatchery,910-555-2020,hatch@example.com,false

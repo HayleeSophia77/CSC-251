@@ -1,0 +1,13 @@
+id,name,hourlyRate,active
+E1,Alex Johnson,12.5,true
+E-a5a3375e,Chris Lee,13.5,false
+E2,Sarah Martinez,14.25,true
+E3,Michael Thompson,15.0,true
+E4,Brianna Lewis,13.75,true
+E5,Daniel Carter,16.0,true
+E6,Emily Rogers,12.25,true
+E7,Jacob Simmons,14.5,true
+E8,Olivia Bennett,13.0,false
+E9,Noah Turner,15.75,true
+E10,Ava Mitchell,12.75,false
+E11,Liam Collins,17.25,false
